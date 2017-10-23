@@ -7,6 +7,9 @@ Click:
     F11: Set the delay time in miliseconds (1 second = 1000 miliseconds)
     F12: Start/stop macro
     
+RightClick (Shield train macro):
+    F12: Toggle right click on/off
+
 lifpov:
     Changes my camera pov when swapping from melee to ranged, and equips sword+board with 1 key
     f7 is ranged weapon, f8 is shield, f9 is melee, v is camera change
